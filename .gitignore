@@ -1,6 +1,3 @@
-publish/*.json
-publish/*.dll
-publish/*.pdb
 bin
 obj
 .vs
