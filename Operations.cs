@@ -1,4 +1,8 @@
-﻿namespace Crypt
+﻿using System;
+using System.IO;
+using System.Threading.Tasks;
+
+namespace Crypt
 {
     public class Operations : Utils
     {
